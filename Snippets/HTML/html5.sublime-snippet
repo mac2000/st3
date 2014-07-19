@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>${1:Document}</title>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.css">
+</head>
+<body>
+    $2
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/latest/js/bootstrap.js"></script>
+    <script>
+        jQuery(document).ready(function(\$){
+
+        });
+    </script>
+</body>
+</html>
+]]></content>
+    <tabTrigger>html</tabTrigger>
+</snippet>
