@@ -1,4 +1,4 @@
-st3
-===
+Sublime Text 3 - Dot Files
+==========================
 
-Sublime Text 3 dot files
+https://sublime.wbond.net/docs/syncing
