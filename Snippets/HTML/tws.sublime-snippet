@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.css">
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/latest/js/bootstrap.js"></script>]]></content>
+        <tabTrigger>tws</tabTrigger>
+    </snippet>
