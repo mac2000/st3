@@ -3,15 +3,11 @@
 	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-	],
 	"rulers":
 	[
-	120
+		120
 	],
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
-	"reindent_on_save": ["css", "scss", "html", "js", "php"]
+	"trim_trailing_white_space_on_save": true
 }
