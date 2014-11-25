@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
@@ -8,16 +8,18 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.css">
 </head>
 <body>
-    $2
-    <script src="http://code.jquery.com/jquery.js"></script>
+    <div class="container-fluid">
+        $2
+    </div>
+    <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/latest/js/bootstrap.js"></script>
     <script>
         jQuery(document).ready(function(\$){
-
+            $3
         });
     </script>
 </body>
 </html>
 ]]></content>
-    <tabTrigger>html</tabTrigger>
+    <tabTrigger>html:5</tabTrigger>
 </snippet>
