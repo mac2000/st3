@@ -1,7 +1,15 @@
 {
 	"installed_packages":
 	[
+		"CSS3",
 		"Emmet",
-		"Smart Delete"
+		"Seti_UI",
+		"Smart Delete",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd"
 	]
 }
