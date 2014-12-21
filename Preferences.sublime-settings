@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/Seti_monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
@@ -15,7 +15,6 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true
