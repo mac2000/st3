@@ -1,8 +1,14 @@
 {
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"CSS3",
 		"Emmet",
+		"Package Control",
 		"Smart Delete",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
