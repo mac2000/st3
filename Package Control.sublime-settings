@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_dependencies":
 	[
 		"0_package_control_loader",
@@ -6,15 +9,8 @@
 	],
 	"installed_packages":
 	[
-		"CSS3",
 		"Emmet",
 		"Package Control",
-		"Smart Delete",
-		"SublimeLinter",
-		"SublimeLinter-csslint",
-		"SublimeLinter-jshint",
-		"SublimeLinter-php",
-		"SublimeLinter-phpcs",
-		"SublimeLinter-phpmd"
+		"Smart Delete"
 	]
 }
